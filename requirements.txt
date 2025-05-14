@@ -1,0 +1,24 @@
+numpy       # for numerical operations
+pandas    # for data manipulation and analysis
+scikit-learn        # for machine learning algorithms
+matplotlib      # for data visualization
+seaborn     # for statistical data visualization
+plotly       # for interactive data visualization
+tensorflow==2.12.0  # for deep learning and neural networks
+keras   # high-level neural networks API
+dvc             # for tracking data science experiments
+notebook        # for Jupyter Notebook support
+python-box==6.0.2       # for configuration management
+pyYAML      # for YAML file parsing
+tqdm        # for progress bars
+ensure==1.0.2       # for ensuring package versions
+joblib      # for lightweight pipelining in Python
+types-PyYAML    # for type hints in PyYAML
+scipy       # for scientific computing and technical computing
+flask       # for web framework
+flask-cors      # for Cross-Origin Resource Sharing (CORS) support in Flask
+fastapi     # for building APIs with Python 3.6+ based on standard Python type hints
+mlflow==2.2.2
+gdown      # for reading my data from google drive
+
+-e .
