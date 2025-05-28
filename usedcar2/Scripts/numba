@@ -1,0 +1,8 @@
+#!d:\UAE_USED_CAR_DEEP_LEARNING\UAE_USED_CAR_DEEP_LEARNING_ANALYSIS_PROJECT\usedcar2\python.exe
+# -*- coding: UTF-8 -*-
+from __future__ import print_function, division, absolute_import
+
+from numba.misc.numba_entry import main
+
+if __name__ == "__main__":
+    main()

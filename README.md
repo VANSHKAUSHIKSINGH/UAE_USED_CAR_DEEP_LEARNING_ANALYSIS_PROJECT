@@ -16,7 +16,7 @@ https://github.com/VANSHKAUSHIKSINGH/UAE_USED_CAR_DEEP_LEARNING_ANALYSIS_PROJECT
 
 
 ```bash/(cmd terminal in vscode)
-conda create -n usedcarDP python==3.8.5 -y
+conda create -p usedcarDP python==3.8.5 -y
 ```
 
 ```bash
@@ -31,3 +31,14 @@ conda activate usedcarDP
 pip install -r requirements.txt
 ```
 
+
+### Workflows
+
+1. Update config.yaml
+2. update secrets.yaml [optional]
+3. update params.yaml
+4. update entity
+5. update the configuration manager in src config
+6. update the components
+7. update the pipeline
+8. update the main.py
