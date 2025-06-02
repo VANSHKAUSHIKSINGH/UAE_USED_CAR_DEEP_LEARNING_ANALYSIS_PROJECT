@@ -1,6 +1,19 @@
 # 🏎️🚗🚘🚙UAE_USED_CAR_DEEP_LEARNING_ANALYSIS_PROJECT
 
 
+### Workflows
+
+1. Update config.yaml
+2. update secrets.yaml [optional]
+3. update params.yaml
+4. update entity
+5. update the configuration manager in src config
+6. update the components
+7. update the pipeline
+8. update the main.py
+0. Update the dvc.yaml
+10. app.py
+
 
 # How to run?
 
