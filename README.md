@@ -89,11 +89,12 @@ export MLFLOW_TRACKING_PASSWORD = d78d49d4af46e838795bd66d175b97a5ccdf0079
 
 ### - If we use Window, we use set.
 ```bash
-set MLFLOW_TRACKING_URI = https://dagshub.com/DevilKaushik/UAE_USED_CAR_DEEP_LEARNING_ANALYSIS_PROJECT.mlflow
+set MLFLOW_TRACKING_URI = https://dagshub.com/DevilKaushik/UAE_USED_CAR_DEEP_LEARNING_ANALYSIS_PROJECT.mlflow/
 
 set MLFLOW_TRACKING_USERNAME=DevilKaushik
 
 set MLFLOW_TRACKING_PASSWORD = d78d49d4af46e838795bd66d175b97a5ccdf0079
+
 
 ```
 
